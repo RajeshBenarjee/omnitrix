@@ -25,16 +25,26 @@ Key concepts used in this project include:
 
 ### Omni Interface Outputs
 
-| Output | Preview |
-|------|------|
-| `omni0` | Idle Mode – Digital clock with animated energy rings |
-| `omni1` | Radial Alien Selector with gesture control |
-| `omni2` | Transformation animation and alien utility activation |
+#### omni0
+![omni0](Outputs/omni0.png)
+
+Idle Mode – Digital clock with animated energy rings.
+
 ---
 
-![](Output/omni0.png)
-![](Output/omni1.png)
-![](Output/omni2.png)
+#### omni1
+![omni1](Outputs/omni1.png)
+
+Radial Alien Selector with gesture-based rotation.
+
+---
+
+#### omni2
+![omni2](Outputs/omni2.png)
+
+Transformation animation with flash effect and haptic feedback.
+
+---
 
 ## 📱 User Instructions
 
