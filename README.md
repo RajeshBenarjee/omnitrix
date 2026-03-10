@@ -27,9 +27,9 @@ Key concepts used in this project include:
 
 | Output | Preview |
 |------|------|
-| `omni0` | ![](Output/omni0.png)<br>Idle Mode – Digital clock with animated energy rings |
-| `omni1` | ![](Output/omni1.png)<br>Radial Alien Selector with gesture control |
-| `omni2` | ![](Output/omni2.png)<br>Transformation animation and alien utility activation |
+| ![](Output/omni0.png) | Idle Mode – Digital clock with animated energy rings |
+|  ![](Output/omni1.png) |<br>Radial Alien Selector with gesture control |
+| ![](Output/omni2.png) | <br>Transformation animation and alien utility activation |
 
 ---
 
