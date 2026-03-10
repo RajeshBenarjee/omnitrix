@@ -136,7 +136,7 @@ Planned updates include:
 
 ## 📦 Build Highlights
 
-- ⚡ App Size: **<1MB**
+- ⚡ App Size: **<50MB**
 - 🎨 Vector-based graphics
 - 🔄 Polar coordinate radial UI
 - ⌚ Optimized for **390px–454px circular displays**
