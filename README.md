@@ -30,11 +30,11 @@ Key concepts used in this project include:
 | `omni0` | Idle Mode – Digital clock with animated energy rings |
 | `omni1` | Radial Alien Selector with gesture control |
 | `omni2` | Transformation animation and alien utility activation |
+---
+
 ![](Output/omni0.png)
 ![](Output/omni1.png)
 ![](Output/omni2.png)
-
----
 
 ## 📱 User Instructions
 
